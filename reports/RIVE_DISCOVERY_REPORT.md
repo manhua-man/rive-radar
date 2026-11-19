@@ -1,6 +1,6 @@
 # `*.rive.to` Ecosystem Discovery Report
 
-- **Generated (UTC)**: `2026-11-11T14:06:43Z`
+- **Generated (UTC)**: `2026-11-16T10:59:39Z`
 - **Proxy**: `http://127.0.0.1:17890`
 - **Total Unique Hosts Discovered**: `50`
 - **Alive Hosts (HTTP 2xx/3xx)**: `50`
